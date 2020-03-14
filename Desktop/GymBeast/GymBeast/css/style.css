@@ -84,9 +84,15 @@
         }
 
         .description {
-             text-align: left;
+             text-align: center;
         }
 
         .gallery {
-            text-align: right;
+            text-align: ;
         }
+
+#table {
+            margin-left:auto; 
+            margin-right:auto;
+        
+}
